@@ -1,0 +1,24 @@
+body {
+    background-image: url('https://ak.picdn.net/shutterstock/videos/1018061338/thumb/1.jpg');
+}
+.jumbotron {
+    font-family: 'News Cycle', sans-serif;
+    background-color: black ;
+    border-style: solid;
+    border-color :#EEDB00;
+    border-width: 10px;
+    color:#EEDB00;
+}
+
+hr {
+    background-color: #EEDB00;
+}
+
+.col-xl-3   {
+    padding: 0px;
+}
+
+.img-thumbnail {
+    background-color: black ;
+    padding: 10;
+}
